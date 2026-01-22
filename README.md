@@ -3,8 +3,7 @@
 Custom calculator layouts for HiPER Scientific Calculator app
 
 ## Bare Minimum
-
-![](./images/bare_minimum.png)
+<img src="./images/bare_minimum.png" height="400"/>
 
 Layout file: [bare_minimum](./layouts/bare_minimum)
 
